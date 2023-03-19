@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm t00m</h1>
-<h3 align="center">I'm a cyber security student who interested in DFIR & Reverse Engineering</h3>
+<h3 align="center">I'm a cyber security student who interested in DFIR</h3>
 
 - 📫 How to reach me **ntad.a2.vt@gmail.com**
 
