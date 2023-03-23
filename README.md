@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm t00m</h1>
 <h3 align="center">I'm a cyber security student who interested in DFIR</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=toomhufm" alt="toomhufm" /></a> </p>
-
 - 🔭 I’m currently working on [SECLOUDITY (SCHOOL PROJECT)](https://github.com/toomhufm/Cryptography-Project)
 
 - 📫 How to reach me **ntad.a2.vt@gmail.com**
